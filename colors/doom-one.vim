@@ -95,7 +95,7 @@ hi TSStringRegex guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cter
 hi TSString guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringEscape guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSCharacter guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSNumber guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSNumber guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSBoolean guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFloat guifg=#4db5bd ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAnnotation guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
