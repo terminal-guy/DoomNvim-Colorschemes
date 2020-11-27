@@ -137,7 +137,7 @@ highlights:
   # Functions
   TSFuncBuiltin: "magenta"
   TSFunction: "magenta"
-  TSFuncMacro: "yellow"
+  TSFuncMacro: "magenta"
   TSParameter: "light_blue"
   TSParameterReference: "light_blue"
   TSMethod: "yellow"
