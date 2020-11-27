@@ -86,8 +86,8 @@ hi WildMenu guifg=#1b2229 ctermfg=235 guibg=#2257a0 ctermbg=25 gui=NONE cterm=NO
 hi EndOfBuffer guifg=#1b2229 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSError guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#dfdfdf ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSPunctBracket guifg=#dfdfdf ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSPunctSpecial guifg=#dfdfdf ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSPunctBracket guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSPunctSpecial guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstant guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstBuiltin guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstMacro guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

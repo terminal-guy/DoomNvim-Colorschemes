@@ -116,8 +116,8 @@ highlights:
   # Misc
   TSError: "error_red"
   TSPunctDelimiter: "white"
-  TSPunctBracket: "white"
-  TSPunctSpecial: "white"
+  TSPunctBracket: "purple"
+  TSPunctSpecial: "purple"
   # Constants
   TSConstant: "purple"
   TSConstBuiltin: "blue"
