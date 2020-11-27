@@ -28,11 +28,12 @@ palette:
   menu_grey: "#282C34"
   special_grey: "#3B4048"
   vertsplit: "#3E4452"
+  dark_cyan: "#5699AF"
 
 highlights:
   Normal: "fg bg"
 
-  Comment: "green - i"
+  Comment: "dark_cyan"
   Constant: "yellow"
   String: "green"
   Character: "orange"
@@ -61,7 +62,7 @@ highlights:
   Special: "blue - i"
   SpecialComment: "line_grey"
   Error: "error_red - br"
-  Todo: "purple - bi"
+  Todo: "orange"
   Underlined: "cyan . u"
   Cursor: "- - r"
 

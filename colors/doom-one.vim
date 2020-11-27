@@ -8,7 +8,7 @@ endif
 let g:colors_name='doom-one'
 
 hi Normal guifg=#bbc2cf ctermfg=251 guibg=#282c34 ctermbg=236 gui=NONE cterm=NONE
-hi Comment guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#5699af ctermfg=67 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -37,7 +37,7 @@ hi Typedef guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi SpecialComment guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
-hi Todo guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
+hi Todo guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Underlined guifg=#46d9ff ctermfg=81 gui=underline cterm=underline
 hi Cursor guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#2c323c ctermbg=236 gui=NONE cterm=NONE
