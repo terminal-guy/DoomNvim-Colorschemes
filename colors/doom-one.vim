@@ -8,7 +8,7 @@ endif
 let g:colors_name='doom-one'
 
 hi Normal guifg=#bbc2cf ctermfg=251 guibg=#282c34 ctermbg=236 gui=NONE cterm=NONE
-hi Comment guifg=#5699af ctermfg=67 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Comment guifg=#5b6268 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
