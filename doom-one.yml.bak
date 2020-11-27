@@ -116,19 +116,19 @@ highlights:
   # Misc
   TSError: "error_red"
   TSPunctDelimiter: "white"
-  TSPunctBracket: "white"
-  TSPunctSpecial: "white"
+  TSPunctBracket: "purple"
+  TSPunctSpecial: "purple"
   # Constants
   TSConstant: "purple"
-  TSConstBuiltin: "blue"
+  TSConstBuiltin: "purple"
   # Not sure about this guy
   TSConstMacro: "cyan"
   TSStringRegex: "orange"
   TSString: "green"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
-  TSNumber: "light_green"
-  TSBoolean: "blue"
+  TSNumber: "orange"
+  TSBoolean: "orange"
   TSFloat: "light_green"
   TSAnnotation: "yellow"
   TSAttribute: "cyan"
@@ -245,7 +245,7 @@ highlights:
   # -- END Easymotion --
 
   # -- START Startify --
-  StartifyNumber: "light_green"
+  StartifyNumber: "cyan"
   StartifySelect: "green"
   StartifyBracket: "blue"
   StartifySpecial: "cyan"
