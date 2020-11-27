@@ -119,7 +119,7 @@ highlights:
   TSPunctBracket: "white"
   TSPunctSpecial: "white"
   # Constants
-  TSConstant: "yellow"
+  TSConstant: "purple"
   TSConstBuiltin: "blue"
   # Not sure about this guy
   TSConstMacro: "cyan"
