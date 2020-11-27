@@ -120,7 +120,7 @@ highlights:
   TSPunctSpecial: "purple"
   # Constants
   TSConstant: "purple"
-  TSConstBuiltin: "blue"
+  TSConstBuiltin: "purple"
   # Not sure about this guy
   TSConstMacro: "cyan"
   TSStringRegex: "orange"

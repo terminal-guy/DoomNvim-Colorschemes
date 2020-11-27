@@ -89,7 +89,7 @@ hi TSPunctDelimiter guifg=#dfdfdf ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE c
 hi TSPunctBracket guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctSpecial guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstant guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSConstBuiltin guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSConstBuiltin guifg=#a9a1e1 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstMacro guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringRegex guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSString guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
