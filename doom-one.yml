@@ -140,7 +140,7 @@ highlights:
   TSFuncMacro: "magenta"
   TSParameter: "light_blue"
   TSParameterReference: "light_blue"
-  TSMethod: "yellow"
+  TSMethod: "blue"
   TSField: "light_blue"
   TSProperty: "light_blue"
   TSConstructor: "cyan"

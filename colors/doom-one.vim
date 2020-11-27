@@ -106,7 +106,7 @@ hi TSFunction guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi TSFuncMacro guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSMethod guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSMethod guifg=#51afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSField guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#46d9ff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
