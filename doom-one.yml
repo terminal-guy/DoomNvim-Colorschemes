@@ -34,9 +34,9 @@ highlights:
 
   Comment: "green - i"
   Constant: "yellow"
-  String: "orange"
+  String: "green"
   Character: "orange"
-  Number: "light_green"
+  Number: "orange"
   Boolean: "blue"
   Float: "light_green"
   Identifier: "blue"

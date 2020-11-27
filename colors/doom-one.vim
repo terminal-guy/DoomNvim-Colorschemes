@@ -10,9 +10,9 @@ let g:colors_name='doom-one'
 hi Normal guifg=#bbc2cf ctermfg=251 guibg=#282c34 ctermbg=236 gui=NONE cterm=NONE
 hi Comment guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Number guifg=#4db5bd ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Number guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#4db5bd ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
