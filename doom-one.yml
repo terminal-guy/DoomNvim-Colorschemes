@@ -1,26 +1,26 @@
 information:
-  name: vscode
+  name: doom-one
   background: dark
   author: "Vishal Adhithya <vishaladhithya19@gmail.com>"
 
 palette:
-  fg: "#ABB2BF"
-  bg: "#1E1E1E"
+  fg: "#bbc2cf"
+  bg: "#282C34"
 
-  red: "#D16969"
+  red: "#ff6c6b"
   error_red: "#F44747"
-  green: "#608B4E"
-  light_green: "#B5CEA8"
-  yellow: "#DCDCAA"
-  dark_yellow: "#D7BA7D"
-  orange: "#CE9178"
-  blue: "#569CD6"
-  light_blue: "#9CDCFE"
-  vivid_blue: "#4FC1FF"
-  purple: "#C586C0"
-  cyan: "#4EC9B0"
-  white: "#ABB2BF"
-  black: "#1E1E1E"
+  green: "#98be65"
+  light_green: "#4db5bd"
+  yellow: "#ECBE7B"
+  dark_yellow: "#ECBE7B"
+  orange: "#da8548"
+  blue: "#2257A0"
+  light_blue: "#2257A0"
+  vivid_blue: "#2257A0"
+  purple: "#a9a1e1"
+  cyan: "#46D9FF"
+  white: "#DFDFDF"
+  black: "#1B2229"
   line_grey: "#5C6370"
   gutter_fg_grey: "#4B5263"
   cursor_grey: "#2C323C"
