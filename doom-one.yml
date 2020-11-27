@@ -127,8 +127,8 @@ highlights:
   TSString: "green"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
-  TSNumber: "light_green"
-  TSBoolean: "blue"
+  TSNumber: "cyan"
+  TSBoolean: "orange"
   TSFloat: "light_green"
   TSAnnotation: "yellow"
   TSAttribute: "cyan"
@@ -245,7 +245,7 @@ highlights:
   # -- END Easymotion --
 
   # -- START Startify --
-  StartifyNumber: "light_green"
+  StartifyNumber: "blue"
   StartifySelect: "green"
   StartifyBracket: "blue"
   StartifySpecial: "cyan"
