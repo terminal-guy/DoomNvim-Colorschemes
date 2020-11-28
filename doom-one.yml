@@ -37,7 +37,7 @@ highlights:
   Normal: "fg bg"
 
   Comment: "line_grey"
-  Constant: "yellow"
+  Constant: "purple"
   String: "orange"
   Character: "orange"
   Number: "light_green"
