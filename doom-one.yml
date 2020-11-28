@@ -117,11 +117,11 @@ highlights:
   # -- Start Treesitter --
   # Misc
   TSError: "error_red"
-  TSPunctDelimiter: "green"#this is white
+  TSPunctDelimiter: "white"#this is white
   TSPunctBracket: "white"
   TSPunctSpecial: "white"
   # Constants
-  TSConstant: "purple"
+  TSConstant: "green"
   TSConstBuiltin: "blue"
   # Not sure about this guy
   TSConstMacro: "cyan"
