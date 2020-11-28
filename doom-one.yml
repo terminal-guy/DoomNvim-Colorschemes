@@ -125,8 +125,8 @@ highlights:
   TSConstBuiltin: "blue"
   # Not sure about this guy
   TSConstMacro: "cyan"
-  TSStringRegex: "orange"
-  TSString: "orange"
+  TSStringRegex: "green"
+  TSString: "green"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
   TSNumber: "light_green"
