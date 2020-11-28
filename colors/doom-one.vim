@@ -122,8 +122,8 @@ hi TSType guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTypeBuiltin guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSVariable guifg=#bac0c6 ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSVariableBuiltin guifg=#bac0c6 ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSVariable guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSVariableBuiltin guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSText guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStrong guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSEmphasis guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

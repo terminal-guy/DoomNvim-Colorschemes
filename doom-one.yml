@@ -160,8 +160,8 @@ highlights:
   TSStructure: "#FF00FF"
   TSInclude: "magenta"
   # Variable
-  TSVariable: "light_blue"
-  TSVariableBuiltin: "light_blue"
+  TSVariable: "magenta"
+  TSVariableBuiltin: "magenta"
   # Text
   TSText: "#FFFF00"
   TSStrong: "#FFFF00"
