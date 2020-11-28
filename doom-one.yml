@@ -36,7 +36,7 @@ palette:
 highlights:
   Normal: "fg bg"
 
-  Comment: "green - i"
+  Comment: "line_grey"
   Constant: "yellow"
   String: "orange"
   Character: "orange"
@@ -155,8 +155,8 @@ highlights:
   TSKeywordOperator: "blue"
   TSOperator: "white"
   TSException: "magenta"
-  TSType: "cyan"
-  TSTypeBuiltin: "blue"
+  TSType: "yellow"
+  TSTypeBuiltin: "yellow"
   TSStructure: "#FF00FF"
   TSInclude: "magenta"
   # Variable

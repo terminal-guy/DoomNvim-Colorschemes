@@ -8,7 +8,7 @@ endif
 let g:colors_name='vscode'
 
 hi Normal guifg=#bbc2cf ctermfg=251 guibg=#282c34 ctermbg=236 gui=NONE cterm=NONE
-hi Comment guifg=#98be65 ctermfg=107 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#da8548 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -118,8 +118,8 @@ hi TSKeywordFunction guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE 
 hi TSKeywordOperator guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#dfdfdf ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSException guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSType guifg=#5da5e1 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSTypeBuiltin guifg=#2257a0 ctermfg=25 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSType guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSTypeBuiltin guifg=#ecbe7b ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariable guifg=#bac0c6 ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
